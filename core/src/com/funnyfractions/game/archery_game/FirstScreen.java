@@ -81,7 +81,6 @@ public class FirstScreen extends Game {
 
     public FirstScreen(ActionResolver actionResolver){
         this.actionResolver = actionResolver;
-
         //actionResolver.showToast("Inside to libgdx screen",5000);
     }
 
